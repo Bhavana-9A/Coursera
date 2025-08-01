@@ -1,20 +1,24 @@
-# Contributing to Assignment
+# Contributing to Coursera Repository
 
-Thanks for taking the time to contribute! 🎉
+Thanks for your interest in contributing! Here's how you can help:
 
 ## How to Contribute
 
 - Fork the repository
-- Create your feature or fix on a new branch
-- Make sure your code is clean and commented
-- Open a pull request with a clear description
+- Create a new branch for your changes
+- Make your edits or additions
+- Submit a pull request with a clear description
+
+## Code Style
+
+- Use consistent naming conventions
+- Keep your code clean and commented
+- Test your changes before submitting
 
 ## Reporting Issues
 
-- Check if the issue already exists
-- Provide detailed steps to reproduce the problem
-- Attach screenshots or logs if helpful
+If you find a bug or want to suggest a new feature:
+- Check if it’s already reported
+- Open a new issue with detailed information
 
-## Code of Conduct
-
-Be respectful and inclusive. See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+Let’s build something great together!
